@@ -223,7 +223,7 @@ You'll be prompted with the following form -- see the example values populated i
 
 <br/><br/>
 <img
-src="../img/register_new.png"
+src="../img/register_new_oauth.png"
 alt="retrieve"
 style="width: 60%; height: auto; display: block; margin-left: auto;  margin-right: auto;"/>
 <br/><br/>
